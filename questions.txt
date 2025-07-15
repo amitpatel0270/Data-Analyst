@@ -1,0 +1,26 @@
+Qustions :
+
+1.list all unique cities where customers are located.
+2.Count the number of orders placed in 2017.
+3.Find the total selse per category.
+4.calculate the percentage of that were paid in installment
+5.count the number of customers from each state.
+6.calculate the number of orders per month in 2018.
+7.Find the average number of products per order grouped by customer city.
+8.Calculate the total revenue contributed by each category.
+9.Identyfiy the correlation between product price and the number of times a product has been purchased.
+10.Calculate the total revenue genrated by each seller and rank them by revanue.
+11.Calculate the moving average of order values for each customer over their order history.
+12.Calculate the cumulativ salse per month for each year.
+13.Calculate the year over year growth rate of total sales.
+14.Identify the top most 3 customers who spent the most money in each year.
+15.Which 5 states have the highest number of customers?
+16.Which payment type is most commonly used?
+17.What is the average payment value for each payment type?
+18.Top 10 Customers by Total Amount Spent.
+19.Monthly Revenue Trend.
+20.Sellers with the Highest Number of Orders.
+21.Delivery Delay vs Estimated Delivery.
+22.Visualization: If multiple orders per month are available, show delays over time:
+23.Product Category Return Rate (if return/canceled status present)
+
